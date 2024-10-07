@@ -26,12 +26,20 @@
                     <label class="form-label">Sandi</label>
                     <input type="password" class="form-control" id="passwordInput">
                 </div>
-                <div class="form-check mb-3">
-                    <input type="checkbox" class="form-check-input" id="showPassword" />
-                    <label class="form-check-label" for="showPassword">Tampilkan Password</label>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="form-text">Belum punya akun? <a href="">Buat akun</a></p>
+                    </div>
+                    <div class="col-md-6 align-items-end justify-content-end d-flex">
+                        <div class="form-check form-text mb-3">
+                            <input type="checkbox" class="form-check-input" id="showPassword" />
+                            <label class="form-check-label" for="showPassword">Tampilkan Password</label>
+                        </div>
+                    </div>
                 </div>
-                <p class="form-text">Belum punya akun? <a href="">Buat akun</a></p>
-                <button type="submit" class="btn bg-app text-light">Masuk</button>
+
+
+                <button type="submit" class="btn app-btn bg-app text-light w-100" style="">Masuk</button>
             </div>
         </form>
     </section>

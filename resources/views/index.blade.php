@@ -35,7 +35,7 @@
                 <p class="fs-2 fst-italic">Gaya Otentik Khas Nusantara</p>
                 <a href="auth">
 
-                    <button type="button" class="btn bg-app text-light btn-lg"> <i class="bi bi-bag-check"></i>
+                    <button type="button" class="btn app-btn bg-app text-light btn-lg"> <i class="bi bi-bag-check"></i>
                         Belanja
                         Sekarang</button>
                 </a>

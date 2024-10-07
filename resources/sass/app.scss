@@ -30,3 +30,7 @@
     background-image: url("../../public/assets/batik-bg.webp");
     background-size: cover;
 }
+
+.app-btn:hover {
+    background-color: var(--secondary) !important;
+}
