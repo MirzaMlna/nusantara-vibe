@@ -34,3 +34,10 @@
 .app-btn:hover {
     background-color: var(--secondary) !important;
 }
+
+.app-line {
+    margin-top: 10px;
+    border: 3px solid var(--primary);
+    width: 175px;
+    border-radius: 10px;
+}
