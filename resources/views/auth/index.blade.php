@@ -11,7 +11,7 @@
 
 <body>
     <section class="container-fluid align-items-center justify-content-center d-flex batik-bg vh-100">
-        <form class="bg-light rounded" data-bs-theme='light'>
+        <form class="bg-light rounded" data-bs-theme='light' action="home">
             <div class="container bg-app  rounded-top-1">
                 <h2 class="fw-bold text-light py-4 ms-2">Masuk ke akun anda</h2>
             </div>
