@@ -1,5 +1,7 @@
 import "./bootstrap";
 
+import * as bootstrap from "bootstrap";
+
 // Login Show Password Start
 document.getElementById("showPassword").addEventListener("change", function () {
     const passwordInput = document.getElementById("passwordInput");
