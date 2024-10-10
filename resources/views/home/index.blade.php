@@ -39,7 +39,7 @@
                             <img src="https://via.placeholder.com/40" alt="avatar" class="rounded-circle"
                                 width="40" height="40" />
                         </a>
-                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
+                        <ul class="dropdown-menu " aria-labelledby="userDropdown">
                             <li><a class="dropdown-item" href="#">Profil</a></li>
                             <li><a class="dropdown-item" href="#">Pengaturan</a></li>
                             <li>

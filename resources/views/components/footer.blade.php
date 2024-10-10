@@ -36,7 +36,6 @@
                  </p>
              </div>
 
-             <!-- Useful Links -->
              <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                  <h6 class="text-uppercase fw-bold">Useful links</h6>
                  <hr class="mb-4 mt-0 d-inline-block mx-auto"
