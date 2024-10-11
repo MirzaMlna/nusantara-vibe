@@ -12,13 +12,13 @@
 <body>
     @include('layout.nav')
 
-    <div class="container-fluid bg-secondary-subtle py-3 vw-100">
+    <div class="container-fluid bg-secondary-subtle py-3">
         <div class="container">
             <h3 class="fw-bold text-app"> @yield('heading')</h3>
         </div>
     </div>
 
-    <main>
+    <main class="container my-5">
         @yield('content')
     </main>
 
