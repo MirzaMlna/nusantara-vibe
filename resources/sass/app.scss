@@ -41,3 +41,8 @@
     width: 175px;
     border-radius: 10px;
 }
+
+.product-card {
+    min-width: 18rem; /* Keeps the card size consistent */
+    flex: 0 0 auto; /* Prevents flex items from shrinking */
+}
