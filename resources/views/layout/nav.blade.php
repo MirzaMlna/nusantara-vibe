@@ -12,14 +12,17 @@
                         <a class="nav-link" aria-current="page" href="home">Beranda</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="home">Cara Memesan</a>
+                    </li>
+                    {{-- <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="cart">Keranjang</a>
-                    </li>
-                    <li class="nav-item">
+                    </li> --}}a
+                    {{-- <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="auth">Riwayat</a>
-                    </li>
+                    </li> --}}
                 </ul>
                 <!-- Avatar dan Nama Pengguna -->
-                <div class="d-flex align-items-center ms-auto">
+                {{-- <div class="d-flex align-items-center ms-auto">
                     <div class="dropdown">
                         <a href="#"
                             class="d-flex align-items-center text-light text-decoration-none dropdown-toggle"
@@ -36,7 +39,7 @@
                             <li><a class="dropdown-item" href="#">Keluar</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </nav>

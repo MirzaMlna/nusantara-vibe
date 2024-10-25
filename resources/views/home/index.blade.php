@@ -3,8 +3,8 @@
 @section('heading', 'Beranda')
 @section('content')
     <div class="container">
-        @include('products.cloth')
+        @include('home.products.cloth')
 
-        @include('products.fabic')
+        @include('home.products.fabic')
     </div>
 @endsection
